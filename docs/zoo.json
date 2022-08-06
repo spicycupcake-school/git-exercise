@@ -1,0 +1,11 @@
+{
+  "name": "Zooilogico",
+  "ticker_price_ammount": 120.0,
+  "ticker_price_currency": "EUR",
+  "address": {
+    "street": "Calle de la piruleta",
+    "number": "123",
+    "postal_code": "00000"
+  },
+  "animals": null
+}
