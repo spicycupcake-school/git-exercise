@@ -10,5 +10,4 @@ Referd to the notion page to know the task needed to be done.
 
 >It's ***truly*** interesting how Markdown works
 >
->>![I'm already wet](https://i.imgflip.com/598a0g.png)
-
+>>![I'm not](https://media4.giphy.com/media/iJJ6E58EttmFqgLo96/200.gif)
