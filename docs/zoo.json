@@ -6,9 +6,9 @@
     "street": "Calle de la piruleta",
     "number": "123",
     "postal_code": "00000"
-  }
+  },
 
-  ,"animals":[
+  "animals":[
     {"animal_type":"demogorgon","animal_color":"light grey","number_of_animals":1},
     {"animal_type":"troll", "animal_color":"light green", "number_of_animals":5},
     {"animal_type":"T-Rex", "animal_color":"green", "number_of_animals":2},
