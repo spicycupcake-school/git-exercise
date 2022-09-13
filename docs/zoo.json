@@ -7,5 +7,11 @@
     "number": "123",
     "postal_code": "00000"
   },
-  "animals": null
-}
+
+  "animals":[
+    {"animal_type":"demogorgon","animal_color":"light grey","number_of_animals":1},
+    {"animal_type":"troll", "animal_color":"light green", "number_of_animals":5},
+    {"animal_type":"T-Rex", "animal_color":"green", "number_of_animals":2},
+    {"animal_type":"penguin", "animal_color":"black & white", "number_of_animals":0}]
+  }
+  
